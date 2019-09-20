@@ -1,0 +1,51 @@
+{
+  "name": "@test/test-slot-project-for-netent",
+  "version": "0.0.1",
+  "description": "Test Slot Project For Netent",
+  "scripts": {
+    "start": "gulp server"
+  },
+  "author": "Aleksandr Borisenko",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/assertion-error": "^1.1.0",
+    "@types/chai": "^3.4.34",
+    "@types/fpsmeter": "^0.3.28",
+    "@types/greensock": "1.15.32",
+    "@types/node": "^7.0.55",
+    "@types/pixi.js": "4.7.2",
+    "autoprefixer": "^7.2.6",
+    "ts-loader": "^3.4.1",
+    "extract-text-webpack-plugin": "^2.1.2",
+    "file-loader": "^0.11.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-jsonmin": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-total-task-time": "^0.1.0",
+    "gulp-typescript": "^3.2.4",
+    "json-loader": "^0.5.7",
+    "lite-server": "^2.2.2",
+    "mkdirp": "^0.5.1",
+    "null-loader": "^0.1.1",
+    "path": "^0.12.7",
+    "rimraf": "^2.5.4",
+    "run-sequence": "^1.2.2",
+    "source-map-loader": "^0.2.3",
+    "style-loader": "^0.18.2",
+    "tslint": "^5.9.1",
+    "typescript": "2.6.2",
+    "webpack": "^3.11.0",
+    "webpack-stream": "^3.2.0"
+  },
+  "dependencies": {
+    "clone-buffer": "^1.0.0",
+    "cloneable-readable": "^1.0.0",
+    "errno": "^0.1.7",
+    "gsap": "^1.20.4",
+    "pixi.js": "4.7.1",
+    "sigmund": "^1.0.1",
+    "tslib": "^1.9.0",
+    "webgl-utils": "^1.0.1"
+  }
+}
